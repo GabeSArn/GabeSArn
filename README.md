@@ -17,13 +17,14 @@ I’m an internet surfer since the dial-up days. I enjoying finding out new info
 - ⚡ Fun fact: ...
 -->
 
-⚡ About Me:<br />
+<h3>⚡ About Me:<br /></h3>
 I’m an internet surfer since the dial-up days. I enjoying finding out new information, building machine learning models (Time Series and NLP), creating Flask Apps, consuming and analyzing internet content, and visualizing data with Tableau.
 
-🔭 I’m currently working on:<br />
+<h3>🔭 I’m currently working on:<br /></h3>
+
 - [News Headlines](https://github.com/GabeSArn/headlines) - Building a Sentiment Analysis model to see if news is generally positive or negative.
 
-📫 How to reach me:<br />
+<h3>📫 How to reach me:<br /></h3>
 
   - [LinkedIn](https://www.linkedin.com/in/gabriel-arnold-39a56692/)<br />
   - [Tableau](https://public.tableau.com/profile/gabe.arnold#!/)<br />
