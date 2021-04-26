@@ -1,9 +1,12 @@
-### Hi there 👋
+### What's up? I'm Gabe 👋
 
 <!--
 **GabeSArn/GabeSArn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+- ⚡ About Me:
+I’m an internet surfer since the dial-up days. I enjoying finding out new information, building machine learning models (Time Series and NLP), building Flask Apps, consuming and analyzing internet content, and visualizing data with Tableau.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +14,18 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ About Me:<br />
+I’m an internet surfer since the dial-up days. I enjoying finding out new information, building machine learning models (Time Series and NLP), creating Flask Apps, consuming and analyzing internet content, and visualizing data with Tableau.
+
+🔭 I’m currently working on:<br />
+- [News Headlines](https://github.com/GabeSArn/headlines) - Building a Sentiment Analysis model to see if news is generally positive or negative.
+
+📫 How to reach me:<br />
+
+  - [LinkedIn](https://www.linkedin.com/in/gabriel-arnold-39a56692/)<br />
+  - [Tableau](https://public.tableau.com/profile/gabe.arnold#!/)<br />
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSArn&theme=blue-green)
