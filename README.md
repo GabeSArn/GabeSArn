@@ -27,6 +27,5 @@ I’m an internet surfer since the dial-up days. I enjoying finding out new info
 <h3>📫 How to reach me:<br /></h3>
 
   - [LinkedIn](https://www.linkedin.com/in/gabriel-arnold-39a56692/)<br />
-  - [Tableau](https://public.tableau.com/profile/gabe.arnold#!/)<br />
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabeSArn&theme=blue-green)
